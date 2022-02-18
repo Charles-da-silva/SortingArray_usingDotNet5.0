@@ -1,0 +1,16 @@
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.exe
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.deps.json
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.runtimeconfig.json
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.runtimeconfig.dev.json
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.dll
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\ref\OrdenandoArray.dll
+C:\workspace\OrdenandoArray\OrdenandoArray\bin\Debug\net5.0\OrdenandoArray.pdb
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.csproj.AssemblyReference.cache
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.AssemblyInfoInputs.cache
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.AssemblyInfo.cs
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.csproj.CoreCompileInputs.cache
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.dll
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\ref\OrdenandoArray.dll
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.pdb
+C:\workspace\OrdenandoArray\OrdenandoArray\obj\Debug\net5.0\OrdenandoArray.genruntimeconfig.cache
